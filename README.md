@@ -1,6 +1,6 @@
 # LocalConverter
 An app that has an ability to convert songs to mp3 using sources youtube and soundcloud, with tutorial included
-As for updates, in dreams in hopes we trust
+As for updates, in dreams and hopes we trust
 
 <img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/9ecc8d68-1fa1-42b5-8605-74f482a205e9" />
 
